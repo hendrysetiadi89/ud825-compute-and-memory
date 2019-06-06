@@ -1,8 +1,5 @@
-package com.tokopedia.myapplication;
+package com.tokopedia.myapplication.computeandmemory;
 
-/**
- * Created by hendry on 2019-06-06.
- */
 /*
  * Copyright (C) 2014 The Android Open Source Project
  *

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.tokopedia.myapplication
+package com.tokopedia.myapplication.computeandmemory
 
 import android.app.Activity
 import android.os.Bundle
@@ -21,6 +21,7 @@ import android.util.Log
 import android.view.View
 import android.webkit.WebView
 import android.widget.Button
+import com.tokopedia.myapplication.R
 
 import java.util.Arrays
 import java.util.Random

@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/memleak_intro_text" />
 
-    <com.tokopedia.myapplication.MyCustomView
+    <com.tokopedia.myapplication.computeandmemory.MyCustomView
             android:layout_width="300dp"
             android:layout_height="200dp"
             android:id="@+id/customView"

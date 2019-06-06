@@ -1,13 +1,11 @@
-package com.tokopedia.myapplication
+package com.tokopedia.myapplication.computeandmemory
 
 import android.app.Activity
 import android.os.Bundle
-import android.os.Trace
 import android.util.Log
-import android.view.View
 import android.webkit.WebView
 import android.widget.Button
-import android.widget.TextView
+import com.tokopedia.myapplication.R
 
 import java.util.Arrays
 import java.util.HashMap

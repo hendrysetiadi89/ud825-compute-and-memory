@@ -19,7 +19,7 @@
         </activity>
 
         <activity
-                android:name=".CachingActivity"
+                android:name=".computeandmemory.CachingActivity"
                 android:label="@string/title_activity_caching_exercise"
                 android:parentActivityName=".MainActivity" >
             <meta-data
@@ -28,8 +28,8 @@
         </activity>
 
         <activity
-                android:name=".BusyUIThreadActivity"
-                android:label="@string/title_activity_caching_exercise"
+                android:name=".computeandmemory.BusyUIThreadActivity"
+                android:label="@string/title_activity_busy_ui_exercise"
                 android:parentActivityName=".MainActivity" >
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
@@ -37,8 +37,8 @@
         </activity>
 
         <activity
-                android:name=".MemoryChurnActivity"
-                android:label="@string/title_activity_caching_exercise"
+                android:name=".computeandmemory.MemoryChurnActivity"
+                android:label="@string/title_activity_memory_churn_exercise"
                 android:parentActivityName=".MainActivity" >
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
@@ -46,8 +46,8 @@
         </activity>
 
         <activity
-                android:name=".DataStructuresActivity"
-                android:label="@string/title_activity_caching_exercise"
+                android:name=".computeandmemory.DataStructuresActivity"
+                android:label="@string/title_activity_data_structure_exercise"
                 android:parentActivityName=".MainActivity" >
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
@@ -55,8 +55,8 @@
         </activity>
 
         <activity
-                android:name=".MemoryLeakActivity"
-                android:label="@string/title_activity_caching_exercise"
+                android:name=".computeandmemory.MemoryLeakActivity"
+                android:label="@string/title_activity_memory_leak_exercise"
                 android:parentActivityName=".MainActivity" >
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
@@ -64,8 +64,44 @@
         </activity>
 
         <activity
-                android:name=".MemoryLeakOptimizedActivity"
-                android:label="@string/title_activity_caching_exercise"
+                android:name=".computeandmemory.MemoryLeakOptimizedActivity"
+                android:label="@string/title_activity_memory_leak_solution"
+                android:parentActivityName=".MainActivity" >
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value=".MainActivity" />
+        </activity>
+
+        <activity
+                android:name=".render1.ChatumLatinumActivity"
+                android:label="@string/title_activity_gpu_overdraw_1"
+                android:parentActivityName=".MainActivity" >
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value=".MainActivity" />
+        </activity>
+
+        <activity
+                android:name=".renderoptimized1.ChatumLatinumActivity"
+                android:label="@string/title_activity_gpu_overdraw_1"
+                android:parentActivityName=".MainActivity" >
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value=".MainActivity" />
+        </activity>
+
+        <activity
+                android:name=".render2.DroidCardsActivity"
+                android:label="@string/title_activity_gpu_overdraw_2"
+                android:parentActivityName=".MainActivity" >
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value=".MainActivity" />
+        </activity>
+
+        <activity
+                android:name=".renderoptimized2.DroidCardsActivity"
+                android:label="@string/title_activity_gpu_overdraw_2"
                 android:parentActivityName=".MainActivity" >
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"

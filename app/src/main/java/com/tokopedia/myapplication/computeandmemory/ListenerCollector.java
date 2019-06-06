@@ -1,9 +1,8 @@
-package com.tokopedia.myapplication;
+package com.tokopedia.myapplication.computeandmemory;
 
 import android.view.View;
 
 import java.util.HashMap;
-import java.util.WeakHashMap;
 
 /**
  * The ListenerCollector acts as runtime storage for all the view/listener relationships

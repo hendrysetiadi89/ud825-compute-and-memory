@@ -3,4 +3,16 @@
     <string name="title_activity_caching_exercise">Caching Exercise</string>
     <string name="mem_leak_intro">Memory Leak Intro</string>
 
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_droid_cards">Droid cards</string>
+
+    <string name="header_text">Chatum Latinum</string>
+    <string name="title_activity_chatum_latinum">Chatum Latinum</string>
+    <string name="title_activity_gpu_overdraw_2">GPU overdraw (2)</string>
+    <string name="title_activity_gpu_overdraw_1">GPU overdraw (1)</string>
+    <string name="title_activity_memory_leak_solution">Memory Leak Solution</string>
+    <string name="title_activity_memory_leak_exercise">Memory Leak exercise</string>
+    <string name="title_activity_data_structure_exercise">Data Structure Exercise</string>
+    <string name="title_activity_memory_churn_exercise">Memory Churn Exercise</string>
+    <string name="title_activity_busy_ui_exercise">busi UI exercis</string>
 </resources>
