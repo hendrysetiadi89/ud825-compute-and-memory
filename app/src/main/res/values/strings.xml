@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Compute</string>
+    <string name="app_name">Android Performance</string>
     <string name="title_activity_caching_exercise">Caching Exercise</string>
     <string name="mem_leak_intro">Memory Leak Intro</string>
 
